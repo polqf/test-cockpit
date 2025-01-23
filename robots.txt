@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://cockpit.letswingle.com/sitemap.xml
+User-agent: * Disallow: Sitemap: https://cockpit.letswingle.comblog/sitemap.xml
