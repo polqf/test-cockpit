@@ -1,6 +1,9 @@
 ---
 title: Wingle x Iberia Express
 date: 2024-09-06 14:10:00 +02:00
+layout: post
+inline: false
+related_posts: false
 ---
 
 Some good news to end this week: Summer is not over yet!!! 📢 🙌 

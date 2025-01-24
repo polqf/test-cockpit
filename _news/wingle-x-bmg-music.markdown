@@ -1,6 +1,9 @@
 ---
 title: Wingle x BMG Music
 date: 2024-07-20 23:00:00 +02:00
+layout: post
+inline: false
+related_posts: false
 ---
 
 Wingle x BMG - The New Music Company: Music to your flights!

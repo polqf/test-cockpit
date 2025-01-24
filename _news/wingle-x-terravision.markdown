@@ -1,6 +1,9 @@
 ---
 title: Wingle x Terravision
 date: 2024-12-09 11:13:00 +01:00
+layout: post
+inline: false
+related_posts: false
 ---
 
 With Italian users being one of our top user groups and with the upcoming Christmas travel surge, we've launched a campaign with Terravision, leaders in bus transfers to/from airports!
