@@ -1,6 +1,6 @@
 ---
 title: Meet people at the airport
-date: 2024-07-20 11:00:00 +02:00
+date: 2024-08-09 11:00:00 +02:00
 ---
 
 The Wingle Summer is in full swing!
