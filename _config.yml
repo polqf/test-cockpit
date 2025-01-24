@@ -1,6 +1,6 @@
 ---
-title: blank
-timezone: UTC
+title: Wingle Blog - it's in the air
+timezone: Europe/Madrid
 collections:
   news:
     title: News
@@ -26,23 +26,12 @@ defaults:
 first_name: Wingle
 middle_name: 
 last_name: Blog
-contact_note: 'You can even add a little note about which of these is the best way
-  to reach you.
-
-'
-description: 'A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio)
-  design.
-
-'
-footer_text: 'Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>
-  with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted
-  by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. Photos
-  from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-
-'
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website
+contact_note: Follow on our social networks
+description: 
+footer_text: "\n"
+keywords: wingle, chat, airplane, offline, meet, connect, chat
 lang: en
-icon: "⚛️"
+icon: "✈️"
 url: https://cockpit.letswingle.com
 baseurl: 
 last_updated: false
@@ -70,7 +59,7 @@ pirsch_analytics:
 openpanel_analytics: 
 google_site_verification: 
 bing_site_verification: 
-blog_name: Wingle Blog
+blog_name: Wingle
 blog_description: it's in the air - Blog
 permalink: "/blog/:year/:title/"
 lsi: false
@@ -91,7 +80,7 @@ giscus:
   theme: preferred_color_scheme
   emit_metadata: 0
   lang: en
-disqus_shortname: al-folio
+disqus_shortname: wingle
 newsletter:
   enabled: false
   endpoint: 
@@ -179,14 +168,9 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 display_tags:
-- formatting
-- images
-- links
-- math
-- code
-- blockquotes
+- cockpit-diaries
 display_categories:
-- external-services
+- diaries
 enable_publication_badges:
   altmetric: false
   dimensions: false
@@ -406,7 +390,7 @@ third_party_libraries:
   polyfill:
     url:
       js: https://cdnjs.cloudflare.com/polyfill/v{{version}}/polyfill.min.js?features=es6
-    version: '3'
+    version: 3
   pseudocode:
     integrity:
       css: sha256-VwMV//xgBPDyRFVSOshhRhzJRDyBmIACniLPpeXNUdc=
