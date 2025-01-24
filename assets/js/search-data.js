@@ -130,6 +130,26 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/wingle-x-bmg-music/";
+            },},{id: "news-meet-people-at-the-airport",
+          title: 'Meet people at the airport',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/meet-people-at-the-airport/";
+            },},{id: "news-wingle-x-iberia-express",
+          title: 'Wingle x Iberia Express',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/wingle-x-iberia-express/";
+            },},{id: "news-become-a-pilot-wingle-39-s-ambassador-program",
+          title: 'Become a Pilot - Wingle&amp;#39;s Ambassador Program',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/become-a-pilot-wingles-ambassador-program/";
+            },},{id: "news-wingle-x-terravision",
+          title: 'Wingle x Terravision',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/wingle-x-terravision/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
