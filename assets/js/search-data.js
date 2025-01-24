@@ -125,6 +125,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/wingle-launch/";
+            },},{id: "news-wingle-x-bmg-music",
+          title: 'Wingle x BMG Music',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/wingle-x-bmg-music/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
