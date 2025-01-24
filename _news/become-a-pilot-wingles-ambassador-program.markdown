@@ -1,6 +1,6 @@
 ---
 title: Become a Pilot - Wingle's Ambassador Program
-date: 2025-01-24 14:12:00 +01:00
+date: 2024-09-17 11:00:00 +02:00
 ---
 
 If you ever wanted to become a Pilot, now is your chance! 😉 
