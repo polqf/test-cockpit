@@ -1,20 +1,20 @@
 ---
 title: about
 permalink: "/"
-layout: about
-subtitle: "<a href='#'></a>it's in the air"
+subtitle: "<a href='https://letswingle.com'>it's in the air</a>"
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true
-  more_info: ''
+  more_info: 
 news: true
 selected_papers: false
 social: true
+layout: about
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Wingle is the first app that allows people on the same plane to meet, connect and chat; all without the need of internet connection.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+On top of that, we offer our users ancillaries to improve their trip. We are on a mission to bring back the joy of flying.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Download the app for [iOS](https://wingle.app.link/landing-download-ios) and [Android](https://wingle.app.link/landing-download-android)
