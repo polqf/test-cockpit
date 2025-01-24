@@ -126,17 +126,6 @@ ninja.data = [{
           window.location.href = "/blog/2024/chartjs/";
         
       },
-    },{id: "post-edited-post",
-      
-        title: "Edited Post!",
-      
-      description: "this is what included image galleries could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/photo-gallery/";
-        
-      },
     },{id: "post-a-post-with-tikzjax",
       
         title: "a post with TikZJax",
