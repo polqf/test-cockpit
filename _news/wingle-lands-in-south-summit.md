@@ -1,6 +1,6 @@
 ---
-title: "Wingle lands in South Summit!"
-date: 2024-06-04 00:00:00 Z
+title: Wingle lands in South Summit!
+date: 2024-06-04 02:00:00 +02:00
 layout: post
 inline: false
 related_posts: false

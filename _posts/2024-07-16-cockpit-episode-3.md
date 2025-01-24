@@ -1,12 +1,12 @@
 ---
-title: "Episode 3: Takeoff!"
-date: 2024-07-16 11:00:00 Z
+title: 'Episode 3: Takeoff!'
+date: 2024-07-16 13:00:00 +02:00
 categories:
-- "Cockpit Diaries"
+- Cockpit Diaries
 tags:
 - cockpit-diaries
 layout: post
-description: "Cockpit diaries series"
+description: Cockpit diaries series
 ---
 
 Time flies!! It’s already Ep. 3 of our “cockpit diaries” and week 3 since launch!

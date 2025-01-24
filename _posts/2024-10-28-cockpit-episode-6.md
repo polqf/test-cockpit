@@ -1,12 +1,12 @@
 ---
-title: "Episode 6: Connecting flights"
-date: 2024-10-28 11:00:00 Z
+title: 'Episode 6: Connecting flights'
+date: 2024-10-28 12:00:00 +01:00
 categories:
-- "Cockpit Diaries"
+- Cockpit Diaries
 tags:
 - cockpit-diaries
 layout: post
-description: "Cockpit diaries series"
+description: Cockpit diaries series
 ---
 
 Hello and happy Halloween!

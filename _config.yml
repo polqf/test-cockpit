@@ -171,7 +171,7 @@ jekyll-archives:
 display_tags:
 - cockpit-diaries
 display_categories:
-- "Cockpit Diaries"
+- Cockpit Diaries
 enable_publication_badges:
   altmetric: false
   dimensions: false
@@ -391,7 +391,7 @@ third_party_libraries:
   polyfill:
     url:
       js: https://cdnjs.cloudflare.com/polyfill/v{{version}}/polyfill.min.js?features=es6
-    version: "3"
+    version: '3'
   pseudocode:
     integrity:
       css: sha256-VwMV//xgBPDyRFVSOshhRhzJRDyBmIACniLPpeXNUdc=

@@ -1,12 +1,12 @@
 ---
-title: "Episode 7: Hustle"
-date: 2024-11-26 11:00:00 Z
+title: 'Episode 7: Hustle'
+date: 2024-11-26 12:00:00 +01:00
 categories:
-- "Cockpit Diaries"
+- Cockpit Diaries
 tags:
 - cockpit-diaries
 layout: post
-description: "Cockpit diaries series"
+description: Cockpit diaries series
 ---
 
 “You guys are hustlers. That’s one of the things that I like most about what you’re doing”. This is what an investor recently told us during a call.

@@ -1,12 +1,12 @@
 ---
-title: "Episode 9: It’s in the air"
-date: 2024-12-22 11:00:00 Z
+title: 'Episode 9: It’s in the air'
+date: 2024-12-22 12:00:00 +01:00
 categories:
-- "Cockpit Diaries"
+- Cockpit Diaries
 tags:
 - cockpit-diaries
 layout: post
-description: "Cockpit diaries series"
+description: Cockpit diaries series
 ---
 
 As the first (and arguably, the longest) month of the year comes to an end, we’re back in the cockpit with the latest updates and general thoughts! 🙌

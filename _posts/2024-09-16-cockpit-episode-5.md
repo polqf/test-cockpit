@@ -1,12 +1,12 @@
 ---
-title: "Episode 5: Chicken or pasta?"
-date: 2024-09-16 11:00:00 Z
+title: 'Episode 5: Chicken or pasta?'
+date: 2024-09-16 13:00:00 +02:00
 categories:
-- "Cockpit Diaries"
+- Cockpit Diaries
 tags:
 - cockpit-diaries
 layout: post
-description: "Cockpit diaries series"
+description: Cockpit diaries series
 ---
 
 The launch has been very successful. It's been a huge win and something we’re immensely proud of. But if we want to turn Wingle into the success we envision, this is just the tiny start.

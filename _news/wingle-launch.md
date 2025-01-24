@@ -1,6 +1,6 @@
 ---
-title: "Wingle launches in Europe!"
-date: 2024-07-01 00:00:00 Z
+title: Wingle launches in Europe!
+date: 2024-07-01 02:00:00 +02:00
 layout: post
 inline: false
 related_posts: false

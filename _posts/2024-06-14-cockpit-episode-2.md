@@ -1,12 +1,12 @@
 ---
-title: "Episode 2: Ready for takeoff"
-date: 2024-06-14 11:00:00 Z
+title: 'Episode 2: Ready for takeoff'
+date: 2024-06-14 13:00:00 +02:00
 categories:
-- "Cockpit Diaries"
+- Cockpit Diaries
 tags:
 - cockpit-diaries
 layout: post
-description: "Cockpit diaries series"
+description: Cockpit diaries series
 ---
 
 Welcome to Ep. 2 of “cockpit diaries”, as we get closer to Wingle’s launch on July 1st.

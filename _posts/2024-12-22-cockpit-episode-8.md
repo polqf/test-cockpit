@@ -1,12 +1,12 @@
 ---
-title: "Episode 8: Rearview mirror"
-date: 2024-12-22 11:00:00 Z
+title: 'Episode 8: Rearview mirror'
+date: 2024-12-22 12:00:00 +01:00
 categories:
-- "Cockpit Diaries"
+- Cockpit Diaries
 tags:
 - cockpit-diaries
 layout: post
-description: "Cockpit diaries series"
+description: Cockpit diaries series
 ---
 
 And just like that, we’ve reached the end of 2024. Crazy. It’s been 1 year, but it’s felt like 3!

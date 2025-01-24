@@ -1,12 +1,12 @@
 ---
-title: "Episode 1: Calibrating the radar"
-date: 2024-05-14 11:00:00 Z
+title: 'Episode 1: Calibrating the radar'
+date: 2024-05-14 13:00:00 +02:00
 categories:
-- "Cockpit Diaries"
+- Cockpit Diaries
 tags:
 - cockpit-diaries
 layout: post
-description: "Cockpit diaries series"
+description: Cockpit diaries series
 ---
 
 This is the first of our “cockpit diaries”; short posts where we want to keep you posted on the “behind the scenes” at Wingle and our learnings as we build a startup from the ground up. If you want a quick re-cap of what is Wingle and why we're launching it, read the first comment below 👇
