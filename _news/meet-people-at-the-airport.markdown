@@ -15,3 +15,5 @@ Happy summer, happy flying, happy Wingling!
 
 ![](https://media.licdn.com/dms/image/v2/D4D22AQHi8ApC6-eQ9w/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1723190680660?e=1740614400&v=beta&t=ui2CQyd7xLvqr7c7599E1RDR0tKwxfxmjSD3LgQpyG4)
 ![](https://media.licdn.com/dms/image/v2/D4D22AQEUsqAWTUOJ7g/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1723190677137?e=1740614400&v=beta&t=t97bgT5ytnXuhJZ3KGYxrqgqGUh_0VR26h1jycxqD8g)
+
+[On LinkedIn](https://www.linkedin.com/posts/lets-wingle_the-wingle-summer-is-in-full-swing-activity-7227585570363908097-MWCJ/?utm_source=share&utm_medium=member_desktop)
