@@ -1,5 +1,5 @@
 ---
-title: Wingle Blog - it's in the air
+title: blank
 timezone: Europe/Madrid
 collections:
   news:
@@ -24,7 +24,7 @@ defaults:
   values:
     sitemap: false
 first_name: Wingle
-middle_name: 
+middle_name: "-"
 last_name: Blog
 contact_note: Follow on our social networks
 description: 
@@ -60,7 +60,7 @@ openpanel_analytics:
 google_site_verification: 
 bing_site_verification: 
 blog_name: Wingle
-blog_description: it's in the air - Blog
+blog_description: Blog
 permalink: "/blog/:year/:title/"
 lsi: false
 pagination:
@@ -147,6 +147,7 @@ plugins:
 - jekyll-toc
 - jekyll-twitter-plugin
 - jemoji
+- jekyll-admin
 sass:
   style: compressed
 jekyll-minifier:
@@ -170,7 +171,7 @@ jekyll-archives:
 display_tags:
 - cockpit-diaries
 display_categories:
-- diaries
+- "Cockpit Diaries"
 enable_publication_badges:
   altmetric: false
   dimensions: false
@@ -390,7 +391,7 @@ third_party_libraries:
   polyfill:
     url:
       js: https://cdnjs.cloudflare.com/polyfill/v{{version}}/polyfill.min.js?features=es6
-    version: 3
+    version: "3"
   pseudocode:
     integrity:
       css: sha256-VwMV//xgBPDyRFVSOshhRhzJRDyBmIACniLPpeXNUdc=

@@ -23,6 +23,7 @@ group :jekyll_plugins do
     gem 'jemoji'
 
     gem 'classifier-reborn'  # used for content categorization during the build
+    gem 'jekyll-admin'
 end
 
 # Gems for development or external data fetching (outside :jekyll_plugins)
@@ -35,4 +36,5 @@ group :other_plugins do
     gem 'terser'         # used by jekyll-terser
     # gem 'unicode_utils' -- should be already installed by jekyll
     # gem 'webrick' -- should be already installed by jekyll
+    gem "sinatra", ">= 3", "< 4"
 end
