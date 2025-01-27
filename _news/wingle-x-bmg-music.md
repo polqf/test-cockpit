@@ -4,6 +4,8 @@ date: 2024-07-20 23:00:00 +02:00
 layout: post
 inline: false
 related_posts: false
+images:
+  spotlight: true
 ---
 
 Wingle x BMG - The New Music Company: Music to your flights!
@@ -16,8 +18,14 @@ Playlists are now live in the Wingle app and the first ones take us to Ibiza and
 
 What a summer!!!
 
-![](https://media.licdn.com/dms/image/v2/D4D22AQEhMi4LW1w9mw/feedshare-shrink_1280/feedshare-shrink_1280/0/1722359659863?e=1740614400&v=beta&t=MSSu-HgaPmXX4vsDwtaFmGPPvLqUj0MmTkUJu5akybc)
-![](https://media.licdn.com/dms/image/v2/D4D22AQFEsS2Zg3uW3g/feedshare-shrink_1280/feedshare-shrink_1280/0/1722359658341?e=1740614400&v=beta&t=ESoegfPd5XEfirw1J_EeFXmOCl8q-iBgzbj-HAzfs7Q)
+<div class="spotlight-group" style="padding-top: 20px; padding-bottom: 20px">
+    <a class="spotlight" href="https://media.licdn.com/dms/image/v2/D4D22AQEhMi4LW1w9mw/feedshare-shrink_1280/feedshare-shrink_1280/0/1722359659863?e=1740614400&v=beta&t=MSSu-HgaPmXX4vsDwtaFmGPPvLqUj0MmTkUJu5akybc">
+        <img src="https://media.licdn.com/dms/image/v2/D4D22AQEhMi4LW1w9mw/feedshare-shrink_1280/feedshare-shrink_1280/0/1722359659863?e=1740614400&v=beta&t=MSSu-HgaPmXX4vsDwtaFmGPPvLqUj0MmTkUJu5akybc" width="400px"/>
+    </a>
+    <a class="spotlight" href="https://media.licdn.com/dms/image/v2/D4D22AQFEsS2Zg3uW3g/feedshare-shrink_1280/feedshare-shrink_1280/0/1722359658341?e=1740614400&v=beta&t=ESoegfPd5XEfirw1J_EeFXmOCl8q-iBgzbj-HAzfs7Q">
+        <img src="https://media.licdn.com/dms/image/v2/D4D22AQFEsS2Zg3uW3g/feedshare-shrink_1280/feedshare-shrink_1280/0/1722359658341?e=1740614400&v=beta&t=ESoegfPd5XEfirw1J_EeFXmOCl8q-iBgzbj-HAzfs7Q" width="400px"/>
+    </a>
+</div>
 
 It's in the air!
 

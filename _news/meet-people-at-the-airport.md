@@ -4,6 +4,8 @@ date: 2024-08-09 11:00:00 +02:00
 layout: post
 inline: false
 related_posts: false
+images:
+  spotlight: true
 ---
 
 The Wingle Summer is in full swing!
@@ -16,7 +18,14 @@ Simply tell others where you will be waiting, how they can recognize you and unt
 
 Happy summer, happy flying, happy Wingling!
 
-![](https://media.licdn.com/dms/image/v2/D4D22AQHi8ApC6-eQ9w/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1723190680660?e=1740614400&v=beta&t=ui2CQyd7xLvqr7c7599E1RDR0tKwxfxmjSD3LgQpyG4)
-![](https://media.licdn.com/dms/image/v2/D4D22AQEUsqAWTUOJ7g/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1723190677137?e=1740614400&v=beta&t=t97bgT5ytnXuhJZ3KGYxrqgqGUh_0VR26h1jycxqD8g)
+<div class="spotlight-group" style="padding-top: 20px; padding-bottom: 20px">
+    <a class="spotlight" href="https://media.licdn.com/dms/image/v2/D4D22AQHi8ApC6-eQ9w/feedshare-shrink_1280/feedshare-shrink_1280/0/1723190680460?e=1740614400&v=beta&t=I_Jy86_Cwvb1udICP3AWQ5mdkQGwzzhRvnd3KzDGms4">
+        <img src="https://media.licdn.com/dms/image/v2/D4D22AQHi8ApC6-eQ9w/feedshare-shrink_1280/feedshare-shrink_1280/0/1723190680460?e=1740614400&v=beta&t=I_Jy86_Cwvb1udICP3AWQ5mdkQGwzzhRvnd3KzDGms4" width="400px"/>
+    </a>
+    <a class="spotlight" href="https://media.licdn.com/dms/image/v2/D4D22AQEUsqAWTUOJ7g/feedshare-shrink_1280/feedshare-shrink_1280/0/1723190677130?e=1740614400&v=beta&t=WUyoLIw_36ULojQoDylTV8H2BmbAV-nAdi40Po7Z8Ng">
+        <img src="https://media.licdn.com/dms/image/v2/D4D22AQEUsqAWTUOJ7g/feedshare-shrink_1280/feedshare-shrink_1280/0/1723190677130?e=1740614400&v=beta&t=WUyoLIw_36ULojQoDylTV8H2BmbAV-nAdi40Po7Z8Ng" width="400px"/>
+    </a>
+</div>
+
 
 [On LinkedIn](https://www.linkedin.com/posts/lets-wingle_the-wingle-summer-is-in-full-swing-activity-7227585570363908097-MWCJ/?utm_source=share&utm_medium=member_desktop)
