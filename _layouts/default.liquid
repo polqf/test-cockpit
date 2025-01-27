@@ -57,8 +57,22 @@
     </div>
 
     <!-- Footer -->
+    {% if page.hide_newsletter == true %}
+    {% else %}
+    <div class="ml-embedded" data-form="p6eUzD" style="padding-top: 40px"></div>
+    {% endif %}
+
+    <div class="download-image-links" align="center" style="padding-top: 40px">
+      <a href="{{ site.download-ios-url }}">
+        <img src="/assets/img/download-ios.png" alt="Download iOS" height="50px">
+      </a>
+
+      <a href="{ site.download-android-url }}">
+        <img src="/assets/img/download-android.png" alt="Download Android" height="50px">
+      </a>
+    </div>
+
     {% include footer.liquid %}
-    <div class="ml-embedded" data-form="p6eUzD"></div>
 
     <!-- JavaScripts -->
     {% include scripts.liquid %}

@@ -33,6 +33,7 @@ keywords: wingle, chat, airplane, offline, meet, connect, chat
 lang: en
 icon: "✈️"
 url: https://cockpit.letswingle.com
+wingle-url: https://letswingle.com
 baseurl: 
 last_updated: false
 impressum_path: 
@@ -86,12 +87,12 @@ newsletter:
   endpoint: 
 announcements:
   enabled: true
-  scrollable: true
-  limit: 5
+  scrollable: false
+  limit: 3
 latest_posts:
   enabled: true
-  scrollable: true
-  limit: 3
+  scrollable: false
+  limit: 5
 markdown: kramdown
 highlighter: rouge
 kramdown:
@@ -454,3 +455,5 @@ third_party_libraries:
       css: https://cdn.jsdelivr.net/npm/venobox@{{version}}/dist/venobox.min.css
       js: https://cdn.jsdelivr.net/npm/venobox@{{version}}/dist/venobox.min.js
     version: 2.1.8
+download-ios-url: "https://wingle.app.link/blog-download-ios"
+download-android-url: "https://wingle.app.link/blog-download-android"

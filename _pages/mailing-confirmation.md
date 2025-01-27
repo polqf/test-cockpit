@@ -3,6 +3,7 @@ title: Thank you for subscribing
 permalink: "/mailing-confirmation/"
 layout: page
 redirect: "https://letswingle.com"
+hide_newsletter: true
 ---
 
 

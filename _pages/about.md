@@ -17,4 +17,16 @@ Wingle is the first app that allows people on the same plane to meet, connect an
 
 On top of that, we offer our users ancillaries to improve their trip. We are on a mission to bring back the joy of flying.
 
-Download the app for [iOS](https://wingle.app.link/landing-download-ios) and [Android](https://wingle.app.link/landing-download-android)
+To know more, [click here]({{ site.wingle-url }})
+
+Download the app for [iOS]({{ site.download-ios-url }}) and [Android]({{ site.download-android-url }})
+
+<div class="download-image-links">
+  <a href="{{ site.download-ios-url }}">
+    <img src="/assets/img/download-ios.png" alt="Download iOS" height="50px">
+  </a>
+
+  <a href="{ site.download-android-url }}">
+    <img src="/assets/img/download-android.png" alt="Download Android" height="50px">
+  </a>
+</div>
