@@ -26,7 +26,7 @@ Download the app for [iOS]({{ site.download-ios-url }}) and [Android]({{ site.do
     <img src="/assets/img/download-ios.png" alt="Download iOS" height="50px">
   </a>
 
-  <a href="{ site.download-android-url }}">
+  <a href="{{ site.download-android-url }}">
     <img src="/assets/img/download-android.png" alt="Download Android" height="50px">
   </a>
 </div>

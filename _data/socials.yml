@@ -51,7 +51,7 @@ instagram: # can be any name here other than the ones already defined above
   fa-class: fa-brands fa-instagram
 tiktok: # can be any name here other than the ones already defined above
   title: TikTok
-  url: https://www.tiktok.com/letswingle
+  url: https://www.tiktok.com/@letswingle
   fa-class: fa-brands fa-tiktok
 linkedin: # can be any name here other than the ones already defined above
   title: LinkedIn
