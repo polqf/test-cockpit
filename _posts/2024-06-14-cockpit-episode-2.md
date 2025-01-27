@@ -6,7 +6,7 @@ categories:
 tags:
 - cockpit-diaries
 layout: post
-description: Cockpit diaries series
+description: "Cockpit Diaries - Ready for takeoff"
 ---
 
 Welcome to Ep. 2 of “cockpit diaries”, as we get closer to Wingle’s launch on July 1st.

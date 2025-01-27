@@ -6,7 +6,7 @@ categories:
 tags:
 - cockpit-diaries
 layout: post
-description: Cockpit diaries series
+description: "Cockpit Diaries - Rearview mirror"
 ---
 
 And just like that, we’ve reached the end of 2024. Crazy. It’s been 1 year, but it’s felt like 3!

@@ -4,6 +4,7 @@ permalink: "/blog/"
 layout: default
 nav: true
 nav_order: 1
+description: "Wingle's Blog. Follow all the news around the first app that allows people on the same plane to meet, connect and chat; all without the need of internet connection."
 pagination:
   enabled: true
   collection: posts
@@ -24,8 +25,8 @@ pagination:
 {% if blog_name_size > 0 or blog_description_size > 0 %}
 
   <div class="header-bar">
-    <img src="/assets/img/wingle-long.png" height="200px">
-    <h2>{{ site.blog_description }}</h2>
+    <img src="/assets/img/wingle-long.png" alt="Wingle logo" height="200px">
+    <h1>{{ site.blog_description }}</h1>
   </div>
   {% endif %}
 

@@ -6,7 +6,7 @@ categories:
 tags:
 - cockpit-diaries
 layout: post
-description: Cockpit diaries series
+description: "Cockpit Diaries - Calibrating the radar"
 ---
 
 This is the first of our “cockpit diaries”; short posts where we want to keep you posted on the “behind the scenes” at Wingle and our learnings as we build a startup from the ground up. If you want a quick re-cap of what is Wingle and why we're launching it, read the first comment below 👇

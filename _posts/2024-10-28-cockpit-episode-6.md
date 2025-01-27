@@ -6,7 +6,7 @@ categories:
 tags:
 - cockpit-diaries
 layout: post
-description: Cockpit diaries series
+description: "Cockpit Diaries - Connecting flights"
 ---
 
 Hello and happy Halloween!

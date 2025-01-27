@@ -6,7 +6,7 @@ categories:
 tags:
 - cockpit-diaries
 layout: post
-description: Cockpit diaries series
+description: "Cockpit Diaries - Hustle"
 ---
 
 “You guys are hustlers. That’s one of the things that I like most about what you’re doing”. This is what an investor recently told us during a call.

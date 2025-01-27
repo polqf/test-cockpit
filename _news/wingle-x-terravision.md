@@ -16,10 +16,10 @@ They'll be able to chat offline in flight but also book services to make their f
 
 <div class="spotlight-group" style="padding-top: 20px; padding-bottom: 20px">
 	<a class="spotlight" style="padding-top: 20px; padding-bottom: 20px" href="https://media.licdn.com/dms/image/v2/D4D22AQH7YbnXklsGFA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1733734918904?e=1740614400&v=beta&t=xVujTm0Y6uJBMXR5GZJA_ZD4AIscLlrEn0hrCSdQEWc">
-	    <img src="https://media.licdn.com/dms/image/v2/D4D22AQH7YbnXklsGFA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1733734918904?e=1740614400&v=beta&t=xVujTm0Y6uJBMXR5GZJA_ZD4AIscLlrEn0hrCSdQEWc" width="560px"/>
+	    <img src="https://media.licdn.com/dms/image/v2/D4D22AQH7YbnXklsGFA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1733734918904?e=1740614400&v=beta&t=xVujTm0Y6uJBMXR5GZJA_ZD4AIscLlrEn0hrCSdQEWc" width="560px" alt="Promotional image for Wingle X Terravision collaboration"/>
 	</a>
 	<a class="spotlight" style="padding-top: 20px; padding-bottom: 20px" href="https://media.licdn.com/dms/image/v2/D4D22AQHAeKAaWrUwpQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1733734918281?e=1740614400&v=beta&t=aniiajr_3XdYRnsgrJpc7F6O7yz0EC1mmdolkpH7h-Y">
-	    <img src="https://media.licdn.com/dms/image/v2/D4D22AQHAeKAaWrUwpQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1733734918281?e=1740614400&v=beta&t=aniiajr_3XdYRnsgrJpc7F6O7yz0EC1mmdolkpH7h-Y" width="300px"/>
+	    <img src="https://media.licdn.com/dms/image/v2/D4D22AQHAeKAaWrUwpQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1733734918281?e=1740614400&v=beta&t=aniiajr_3XdYRnsgrJpc7F6O7yz0EC1mmdolkpH7h-Y" width="300px" alt="A Terravision bus with Wingle ads"/>
 	</a>
 </div>
 

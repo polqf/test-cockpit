@@ -20,13 +20,11 @@ What a summer!!!
 
 <div class="spotlight-group" style="padding-top: 20px; padding-bottom: 20px">
     <a class="spotlight" href="https://media.licdn.com/dms/image/v2/D4D22AQEhMi4LW1w9mw/feedshare-shrink_1280/feedshare-shrink_1280/0/1722359659863?e=1740614400&v=beta&t=MSSu-HgaPmXX4vsDwtaFmGPPvLqUj0MmTkUJu5akybc">
-        <img src="https://media.licdn.com/dms/image/v2/D4D22AQEhMi4LW1w9mw/feedshare-shrink_1280/feedshare-shrink_1280/0/1722359659863?e=1740614400&v=beta&t=MSSu-HgaPmXX4vsDwtaFmGPPvLqUj0MmTkUJu5akybc" width="400px"/>
+        <img src="https://media.licdn.com/dms/image/v2/D4D22AQEhMi4LW1w9mw/feedshare-shrink_1280/feedshare-shrink_1280/0/1722359659863?e=1740614400&v=beta&t=MSSu-HgaPmXX4vsDwtaFmGPPvLqUj0MmTkUJu5akybc" width="400px" alt="Wingle app showing the new playlists functionality powered by BMG music"/>
     </a>
     <a class="spotlight" href="https://media.licdn.com/dms/image/v2/D4D22AQFEsS2Zg3uW3g/feedshare-shrink_1280/feedshare-shrink_1280/0/1722359658341?e=1740614400&v=beta&t=ESoegfPd5XEfirw1J_EeFXmOCl8q-iBgzbj-HAzfs7Q">
-        <img src="https://media.licdn.com/dms/image/v2/D4D22AQFEsS2Zg3uW3g/feedshare-shrink_1280/feedshare-shrink_1280/0/1722359658341?e=1740614400&v=beta&t=ESoegfPd5XEfirw1J_EeFXmOCl8q-iBgzbj-HAzfs7Q" width="400px"/>
+        <img src="https://media.licdn.com/dms/image/v2/D4D22AQFEsS2Zg3uW3g/feedshare-shrink_1280/feedshare-shrink_1280/0/1722359658341?e=1740614400&v=beta&t=ESoegfPd5XEfirw1J_EeFXmOCl8q-iBgzbj-HAzfs7Q" width="400px" alt="'Wingle in Ibiza' Playlist by BMG music for Wingle"/>
     </a>
 </div>
-
-It's in the air!
 
 [On LinkedIn](https://www.linkedin.com/posts/lets-wingle_wingle-x-bmg-the-new-music-company-music-activity-7224322985506045952-qxA0/?utm_source=share&utm_medium=member_desktop)

@@ -70,7 +70,7 @@
         <img src="/assets/img/download-ios.png" alt="Download iOS" height="50px">
       </a>
 
-      <a href="{ site.download-android-url }}">
+      <a href="{{ site.download-android-url }}">
         <img src="/assets/img/download-android.png" alt="Download Android" height="50px">
       </a>
     </div>
@@ -79,16 +79,17 @@
     <div class="social-links" align="center" style="padding-top: 40px">
     {% for social in site.data.socials %}
         {% if social[1].fa-class %}
-        <a href="{{ social[1].url }}" title="{{ social[1].title }}" class="{{ social[1].fa-class }} fa-xl" style="padding: 20px"></a>
+        <a href="{{ social[1].url }}" title="{{ social[1].title }}" class="{{ social[1].fa-class }} fa-xl" alt="{{ social[1].title }}" style="padding: 20px"></a>
         {% else %}
-        <a href="{{ social[1].url }}" title="{{ social[1].title }}">
+        <a href="{{ social[1].url }}" title="{{ social[1].title }}" alt="{{ social[1].title }}">
           {% assign file_ext = social[1].logo | split: '.' | last %}
 
           {% if file_ext == 'svg' %}
             <svg>
               <image
               xlink:href="{% if social[1].logo contains '://' %}{{ social[1].logo }}{% else %}{{ social[1].logo | relative_url }}{% endif %}"
-              height="60px"
+              alt="{{ social[1].title }}"
+              height="60px",
               />
             </svg>
           {% else %}

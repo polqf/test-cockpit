@@ -6,7 +6,7 @@ categories:
 tags:
 - cockpit-diaries
 layout: post
-description: Cockpit diaries series
+description: "Cockpit Diaries - It’s in the air"
 ---
 
 As the first (and arguably, the longest) month of the year comes to an end, we’re back in the cockpit with the latest updates and general thoughts! 🙌

@@ -6,7 +6,7 @@ categories:
 tags:
 - cockpit-diaries
 layout: post
-description: Cockpit diaries series
+description: "Cockpit Diaries - Gear up!"
 ---
 
 Summers are a period to wind down, relax and disconnect… or not. This year, our summer looks very different, as Wingle speeds up, becomes more visible and grows more and more.

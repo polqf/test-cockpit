@@ -15,6 +15,6 @@ Basically, you get rewarded for bringing new users to download and sign up to Wi
 
 Unfortunately, we can't give you keys to an airplane (yet), but you'll get a unique code so you can spread the Wingle love all around!
 
-You can check out more info [here](https://cockpit.letswingle.com/wingle-pilots.pdf)
+You can [check out more info about the program](https://cockpit.letswingle.com/wingle-pilots.pdf) and [the associated outlets](https://cockpit.letswingle.com/wingle-pilots.pdf)
 
-And [sign up here](https://tally.so/r/w24qre)
+[Sign up now](https://tally.so/r/w24qre)

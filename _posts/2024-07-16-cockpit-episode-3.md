@@ -6,7 +6,7 @@ categories:
 tags:
 - cockpit-diaries
 layout: post
-description: Cockpit diaries series
+description: "Cockpit Diaries - Takeoff!"
 ---
 
 Time flies!! It’s already Ep. 3 of our “cockpit diaries” and week 3 since launch!
