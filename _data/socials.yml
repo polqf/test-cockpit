@@ -7,7 +7,7 @@
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: hi@letswingle.com # your email address
+# email: hi@letswingle.com # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 # github_username: # your GitHub user name
@@ -29,7 +29,7 @@ email: hi@letswingle.com # your email address
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
-rss_icon: false # set to true to show the RSS icon
+# rss_icon: false # set to true to show the RSS icon
 # scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
@@ -45,7 +45,19 @@ rss_icon: false # set to true to show the RSS icon
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Qx2NOp5icY_daJnXtf--aKNWZxIEI3CFJw&s # can be png, svg, jpg
+instagram: # can be any name here other than the ones already defined above
+  title: Instagram
+  url: https://www.instagram.com/lets_wingle
+  fa-class: fa-brands fa-instagram
+tiktok: # can be any name here other than the ones already defined above
+  title: TikTok
+  url: https://www.tiktok.com/letswingle
+  fa-class: fa-brands fa-tiktok
+linkedin: # can be any name here other than the ones already defined above
   title: LinkedIn
   url: https://www.linkedin.com/company/lets-wingle
+  fa-class: fa-brands fa-linkedin
+custom_email: # can be any name here other than the ones already defined above
+  title: Email
+  url: mailto:hi@letswingle.com
+  fa-class: fa-regular fa-envelope

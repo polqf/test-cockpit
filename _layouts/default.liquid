@@ -13,6 +13,9 @@
       <meta http-equiv="refresh" content="3; url={{ redirect }}">
     {% endif %}
     {% include head.liquid %}
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
     <!-- MailerLite Universal -->
     <script>
         (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
@@ -70,6 +73,34 @@
       <a href="{ site.download-android-url }}">
         <img src="/assets/img/download-android.png" alt="Download Android" height="50px">
       </a>
+    </div>
+
+    <!-- Social -->
+    <div class="social-links" align="center" style="padding-top: 40px">
+    {% for social in site.data.socials %}
+        {% if social[1].fa-class %}
+        <a href="{{ social[1].url }}" title="{{ social[1].title }}" class="{{ social[1].fa-class }} fa-xl" style="padding: 20px"></a>
+        {% else %}
+        <a href="{{ social[1].url }}" title="{{ social[1].title }}">
+          {% assign file_ext = social[1].logo | split: '.' | last %}
+
+          {% if file_ext == 'svg' %}
+            <svg>
+              <image
+              xlink:href="{% if social[1].logo contains '://' %}{{ social[1].logo }}{% else %}{{ social[1].logo | relative_url }}{% endif %}"
+              height="60px"
+              />
+            </svg>
+          {% else %}
+            <img
+              src="{% if social[1].logo contains '://' %}{{ social[1].logo }}{% else %}{{ social[1].logo | relative_url }}{% endif %}"
+              alt="{{ social[1].title }}"
+              height="60px"
+            >
+          {% endif %}
+        </a>
+      {% endif %}
+    {% endfor %}
     </div>
 
     {% include footer.liquid %}
