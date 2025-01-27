@@ -26,7 +26,7 @@ defaults:
 first_name: Wingle
 middle_name: "-"
 last_name: Blog
-contact_note: Follow on our social networks
+contact_note: Follow us on our social networks
 description: 
 footer_text: "\n"
 keywords: wingle, chat, airplane, offline, meet, connect, chat
@@ -132,7 +132,6 @@ keep_files:
 plugins:
 - jekyll-archives
 - jekyll-email-protect
-- jekyll-feed
 - jekyll-get-json
 - jekyll-imagemagick
 - jekyll-jupyter-notebook
