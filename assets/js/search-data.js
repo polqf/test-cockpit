@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-blog",
           title: "blog",
-          description: "",
+          description: "Wingle&#39;s Blog. Follow all the news around the first app that allows people on the same plane to meet, connect and chat; all without the need of internet connection.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/";
@@ -27,7 +27,7 @@ ninja.data = [{
       
         title: "Episode 9: It’s in the air",
       
-      description: "Cockpit diaries series",
+      description: "Cockpit Diaries - It’s in the air",
       section: "Posts",
       handler: () => {
         
@@ -38,7 +38,7 @@ ninja.data = [{
       
         title: "Episode 8: Rearview mirror",
       
-      description: "Cockpit diaries series",
+      description: "Cockpit Diaries - Rearview mirror",
       section: "Posts",
       handler: () => {
         
@@ -49,7 +49,7 @@ ninja.data = [{
       
         title: "Episode 7: Hustle",
       
-      description: "Cockpit diaries series",
+      description: "Cockpit Diaries - Hustle",
       section: "Posts",
       handler: () => {
         
@@ -60,7 +60,7 @@ ninja.data = [{
       
         title: "Episode 6: Connecting flights",
       
-      description: "Cockpit diaries series",
+      description: "Cockpit Diaries - Connecting flights",
       section: "Posts",
       handler: () => {
         
@@ -71,7 +71,7 @@ ninja.data = [{
       
         title: "Episode 5: Chicken or pasta?",
       
-      description: "Cockpit diaries series",
+      description: "Cockpit Diaries - Chicken or pasta?",
       section: "Posts",
       handler: () => {
         
@@ -82,7 +82,7 @@ ninja.data = [{
       
         title: "Episode 4: Gear up!",
       
-      description: "Cockpit diaries series",
+      description: "Cockpit Diaries - Gear up!",
       section: "Posts",
       handler: () => {
         
@@ -93,7 +93,7 @@ ninja.data = [{
       
         title: "Episode 3: Takeoff!",
       
-      description: "Cockpit diaries series",
+      description: "Cockpit Diaries - Takeoff!",
       section: "Posts",
       handler: () => {
         
@@ -104,7 +104,7 @@ ninja.data = [{
       
         title: "Episode 2: Ready for takeoff",
       
-      description: "Cockpit diaries series",
+      description: "Cockpit Diaries - Ready for takeoff",
       section: "Posts",
       handler: () => {
         
@@ -115,7 +115,7 @@ ninja.data = [{
       
         title: "Episode 1: Calibrating the radar",
       
-      description: "Cockpit diaries series",
+      description: "Cockpit Diaries - Calibrating the radar",
       section: "Posts",
       handler: () => {
         
