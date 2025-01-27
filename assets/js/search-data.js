@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
+        },{id: "nav-download-the-app",
+          title: "download the app",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/https:/letswingle.com";
+          },
         },{id: "post-episode-9-it-s-in-the-air",
       
         title: "Episode 9: It’s in the air",
