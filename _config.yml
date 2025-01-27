@@ -53,7 +53,7 @@ max_width: 930px
 serve_og_meta: false
 serve_schema_org: false
 og_image: 
-google_analytics: 
+google_analytics: "G-HREL5J0RCR"
 cronitor_analytics: 
 pirsch_analytics: 
 openpanel_analytics: 
@@ -225,7 +225,7 @@ imagemagick:
   output_formats:
     webp: "-quality 85"
 lazy_loading_images: true
-enable_google_analytics: false
+enable_google_analytics: true
 enable_cronitor_analytics: false
 enable_pirsch_analytics: false
 enable_openpanel_analytics: false
