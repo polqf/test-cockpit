@@ -2,9 +2,8 @@
 title: Thank you for subscribing
 permalink: "/mailing-confirmation/"
 layout: page
-redirect: "https://letswingle.com"
+redirect: https://letswingle.com
 ---
-
 
 You're all set! We’re thrilled to have you on board.
 
