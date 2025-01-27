@@ -1,7 +1,7 @@
 ---
 title: wingle-pilots
 permalink: "/wingle-pilots.pdf/"
-layout: pdf
+layout: pdfredirect
 filename: wingle-pilots
 ---
 
