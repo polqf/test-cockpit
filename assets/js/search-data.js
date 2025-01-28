@@ -30,7 +30,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/https:/letswingle.com";
           },
-        },{id: "post-episode-9-it-s-in-the-air",
+        },{id: "post-what-to-do-on-your-next-flight-turn-downtime-into-connection-time",
+      
+        title: "What to Do on Your Next Flight: Turn Downtime into Connection Time",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/what-to-do-on-your-next-flight/";
+        
+      },
+    },{id: "post-5-things-you-have-to-do-before-your-next-flight-you-ll-thank-us-later",
+      
+        title: "5 Things You Have to Do Before Your Next Flight (You’ll Thank Us...",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/five-before-your-flight/";
+        
+      },
+    },{id: "post-episode-9-it-s-in-the-air",
       
         title: "Episode 9: It’s in the air",
       
