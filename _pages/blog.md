@@ -194,4 +194,6 @@ pagination:
 {% include pagination.liquid %}
 {% endif %}
 
+<a href="/publications"> Other publications </a>
+
 </div>
