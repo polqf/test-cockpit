@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
+        },{id: "nav-pilots",
+          title: "pilots",
+          description: "Meet Wingle’s Pilots",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/team/";
+          },
         },{id: "nav-download-the-app",
           title: "download the app",
           description: "",
@@ -31,7 +38,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/cockpit-episode-9/";
+          window.location.href = "/blog/2025/cockpit-episode-9/";
         
       },
     },{id: "post-episode-8-rearview-mirror",
