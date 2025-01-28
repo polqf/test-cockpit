@@ -164,11 +164,36 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/wingle-x-terravision/";
+            },},{id: "publications-the-art-of-networking-at-35-000-feet-turning-flights-into-opportunities",
+          title: 'The Art of Networking at 35,000 Feet: Turning Flights into Opportunities',
+          description: "",
+          section: "Publications",handler: () => {
+              window.location.href = "/publications/art-of-networking/";
             },},{id: "publications-5-things-you-have-to-do-before-your-next-flight-you-ll-thank-us-later",
           title: '5 Things You Have to Do Before Your Next Flight (You’ll Thank Us...',
           description: "",
           section: "Publications",handler: () => {
               window.location.href = "/publications/five-before-your-flight/";
+            },},{id: "publications-turn-your-flight-into-an-adventure-with-wingle",
+          title: 'Turn Your Flight Into an Adventure with Wingle',
+          description: "",
+          section: "Publications",handler: () => {
+              window.location.href = "/publications/flight-into-adventure/";
+            },},{id: "publications-5-surprising-things-you-can-learn-from-fellow-travelers",
+          title: '5 Surprising Things You Can Learn from Fellow Travelers',
+          description: "",
+          section: "Publications",handler: () => {
+              window.location.href = "/publications/learn-from-travelers/";
+            },},{id: "publications-top-5-ways-to-make-new-friends-while-traveling-solo",
+          title: 'Top 5 Ways to Make New Friends While Traveling Solo',
+          description: "",
+          section: "Publications",handler: () => {
+              window.location.href = "/publications/make-friends-travelling-solo/";
+            },},{id: "publications-5-surprising-benefits-of-talking-to-strangers-while-traveling",
+          title: '5 Surprising Benefits of Talking to Strangers While Traveling',
+          description: "",
+          section: "Publications",handler: () => {
+              window.location.href = "/publications/pre-flight-checklist/";
             },},{id: "publications-what-to-do-on-your-next-flight-turn-downtime-into-connection-time",
           title: 'What to Do on Your Next Flight: Turn Downtime into Connection Time',
           description: "",
