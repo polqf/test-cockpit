@@ -1,6 +1,6 @@
 ---
 title: 'Episode 9: It’s in the air'
-date: 2024-12-22 12:00:00 +01:00
+date: 2025-01-24 12:00:00 +01:00
 categories:
 - Cockpit Diaries
 tags:
