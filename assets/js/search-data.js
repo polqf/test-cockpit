@@ -11,14 +11,14 @@ ninja.data = [{
     },
   },{id: "nav-blog",
           title: "blog",
-          description: "Wingle&#39;s Blog. Follow all the news around the first app that allows people on the same plane to meet, connect and chat; all without the need of internet connection.",
+          description: "Wingle Blog: Stay updated with Wingle, the first app that lets travelers on the same flight meet, connect, and chat—no internet needed. Explore news &amp; insights!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/";
           },
         },{id: "nav-pilots",
           title: "pilots",
-          description: "Meet Wingle’s Pilots",
+          description: "Get to know the team behind Wingle, the pilots steering the future of social travel. ✈️",
           section: "Navigation",
           handler: () => {
             window.location.href = "/team/";
@@ -34,7 +34,7 @@ ninja.data = [{
       
         title: "Episode 9: It’s in the air",
       
-      description: "Cockpit Diaries - It’s in the air",
+      description: "Big things are happening! See what’s ahead in Episode 9 of the Cockpit Diaries. 🌍",
       section: "Posts",
       handler: () => {
         
@@ -45,7 +45,7 @@ ninja.data = [{
       
         title: "Episode 8: Rearview mirror",
       
-      description: "Cockpit Diaries - Rearview mirror",
+      description: "Reflecting on the journey so far—explore the milestones in Episode 8 of the Cockpit Diaries. 🔄",
       section: "Posts",
       handler: () => {
         
@@ -56,7 +56,7 @@ ninja.data = [{
       
         title: "Episode 7: Hustle",
       
-      description: "Cockpit Diaries - Hustle",
+      description: "The journey never stops! Follow the grind and momentum in Episode 7 of the Cockpit Diaries. 💼",
       section: "Posts",
       handler: () => {
         
@@ -67,7 +67,7 @@ ninja.data = [{
       
         title: "Episode 6: Connecting flights",
       
-      description: "Cockpit Diaries - Connecting flights",
+      description: "Travel, connections, and the journey ahead—dive into Episode 6 of the Cockpit Diaries. 🌍",
       section: "Posts",
       handler: () => {
         
@@ -78,7 +78,7 @@ ninja.data = [{
       
         title: "Episode 5: Chicken or pasta?",
       
-      description: "Cockpit Diaries - Chicken or pasta?",
+      description: "Decisions, decisions! Take a lighthearted look at travel choices in Episode 5 of the Cockpit Diaries. 🍽️",
       section: "Posts",
       handler: () => {
         
@@ -89,7 +89,7 @@ ninja.data = [{
       
         title: "Episode 4: Gear up!",
       
-      description: "Cockpit Diaries - Gear up!",
+      description: "Fasten your seatbelts! Wingle is gaining altitude in Episode 4 of the Cockpit Diaries. ✈️",
       section: "Posts",
       handler: () => {
         
@@ -100,7 +100,7 @@ ninja.data = [{
       
         title: "Episode 3: Takeoff!",
       
-      description: "Cockpit Diaries - Takeoff!",
+      description: "Wingle is airborne! Experience the excitement of launch in Episode 3 of the Cockpit Diaries. 🚀",
       section: "Posts",
       handler: () => {
         
@@ -111,7 +111,7 @@ ninja.data = [{
       
         title: "Episode 2: Ready for takeoff",
       
-      description: "Cockpit Diaries - Ready for takeoff",
+      description: "Discover how Wingle is gearing up for takeoff in Episode 2 of the Cockpit Diaries. 🚀",
       section: "Posts",
       handler: () => {
         
@@ -122,7 +122,7 @@ ninja.data = [{
       
         title: "Episode 1: Calibrating the radar",
       
-      description: "Cockpit Diaries - Calibrating the radar",
+      description: "The journey begins! See how Wingle is setting the course in Episode 1 of the Cockpit Diaries. 🛫",
       section: "Posts",
       handler: () => {
         
@@ -164,14 +164,14 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/wingle-x-terravision/";
-            },},{id: "publications-the-art-of-networking-at-35-000-feet-turning-flights-into-opportunities",
-          title: 'The Art of Networking at 35,000 Feet: Turning Flights into Opportunities',
-          description: "",
+            },},{id: "publications-networking-at-35-000-feet-turn-flights-into-wins",
+          title: 'Networking at 35,000 Feet: Turn Flights into Wins',
+          description: "Turn your flight into an opportunity! Discover how to make the most of your time in the air by connecting with fellow travelers",
           section: "Publications",handler: () => {
               window.location.href = "/publications/art-of-networking/";
-            },},{id: "publications-5-things-you-have-to-do-before-your-next-flight-you-ll-thank-us-later",
-          title: '5 Things You Have to Do Before Your Next Flight (You’ll Thank Us...',
-          description: "",
+            },},{id: "publications-5-essential-travel-hacks-to-do-before-your-next-flight",
+          title: '5 Essential Travel Hacks to Do Before Your Next Flight',
+          description: "Prepare like a pro! Follow these five must-do travel tips before your flight to enjoy a smoother and stress-free journey.",
           section: "Publications",handler: () => {
               window.location.href = "/publications/five-before-your-flight/";
             },},{id: "publications-turn-your-flight-into-an-adventure-with-wingle",
@@ -179,9 +179,9 @@ ninja.data = [{
           description: "",
           section: "Publications",handler: () => {
               window.location.href = "/publications/flight-into-adventure/";
-            },},{id: "publications-5-surprising-things-you-can-learn-from-fellow-travelers",
-          title: '5 Surprising Things You Can Learn from Fellow Travelers',
-          description: "",
+            },},{id: "publications-5-unexpected-lessons-you-ll-learn-from-fellow-travelers",
+          title: '5 Unexpected Lessons You’ll Learn from Fellow Travelers',
+          description: "Every traveler has a story! Find out the surprising insights you can gain just by chatting with the people around you.",
           section: "Publications",handler: () => {
               window.location.href = "/publications/learn-from-travelers/";
             },},{id: "publications-top-5-ways-to-make-new-friends-while-traveling-solo",
@@ -189,14 +189,14 @@ ninja.data = [{
           description: "",
           section: "Publications",handler: () => {
               window.location.href = "/publications/make-friends-travelling-solo/";
-            },},{id: "publications-5-surprising-benefits-of-talking-to-strangers-while-traveling",
-          title: '5 Surprising Benefits of Talking to Strangers While Traveling',
-          description: "",
+            },},{id: "publications-why-talking-to-strangers-can-transform-your-travels",
+          title: 'Why Talking to Strangers Can Transform Your Travels',
+          description: "Open up to new experiences! See how meeting strangers on your journey can lead to unforgettable moments and valuable connections.",
           section: "Publications",handler: () => {
               window.location.href = "/publications/pre-flight-checklist/";
-            },},{id: "publications-what-to-do-on-your-next-flight-turn-downtime-into-connection-time",
-          title: 'What to Do on Your Next Flight: Turn Downtime into Connection Time',
-          description: "",
+            },},{id: "publications-make-every-flight-count-connect-amp-engage-in-the-air",
+          title: 'Make Every Flight Count: Connect &amp;amp; Engage in the Air',
+          description: "Turn your flight into an opportunity! Discover how to make the most of your time in the air by connecting with fellow travelers.",
           section: "Publications",handler: () => {
               window.location.href = "/publications/what-to-do-on-your-next-flight/";
             },},{

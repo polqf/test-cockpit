@@ -40,6 +40,9 @@ We **dived and hiked in Oman**, crossed tea plantations, had one of the stranges
 	<a class="spotlight" href="/assets/img/founders/founders_carousel4.jpeg">
 	    <img src="/assets/img/founders/founders_carousel4.jpeg" width="33%" alt="Wingle @ Kerala, India" style="padding-top: 1%"/>
 	</a>
+	<a class="spotlight" href="/assets/img/founders/founders_carousel0.jpeg">
+	    <img src="/assets/img/founders/founders_carousel4.jpeg" width="33%" alt="Founders during first shooting for app launch" style="padding-top: 1%"/>
+	</a>
 </div>
 
 Over a **hundred flights later**, it was time for me to return to **Spain**, and it was then when the idea struck: There are **so many flights** taking off and arriving every single day, so many people flying to new places, and especially, so much **“wasted” time in the air**. At the same time, flights are one of the very rare occasions in our lives when we have **undisturbed time** to concentrate on something.
