@@ -2,7 +2,7 @@
 layout: page
 title: publications
 permalink: /publications/
-description: "Wingle's Publications. Follow all the news around the first app that allows people on the same plane to meet, connect and chat; all without the need of internet connection."
+description: "Wingle Publications: Discover the latest on Wingle, the app that connects travelers mid-flight without Wi-Fi. Read expert tips, stories, and travel insights!"
 nav: false
 ---
 {% assign sorted_projects = site.publications | sort: "importance" %}

@@ -6,7 +6,7 @@ categories:
 tags:
 - cockpit-diaries
 layout: post
-description: "Cockpit Diaries - Takeoff!"
+description: "Wingle is airborne! Experience the excitement of launch in Episode 3 of the Cockpit Diaries. 🚀"
 ---
 
 Time flies!! It’s already Ep. 3 of our “cockpit diaries” and week 3 since launch!

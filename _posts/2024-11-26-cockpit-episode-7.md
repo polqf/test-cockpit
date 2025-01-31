@@ -6,7 +6,7 @@ categories:
 tags:
 - cockpit-diaries
 layout: post
-description: "Cockpit Diaries - Hustle"
+description: "The journey never stops! Follow the grind and momentum in Episode 7 of the Cockpit Diaries. 💼"
 ---
 
 “You guys are hustlers. That’s one of the things that I like most about what you’re doing”. This is what an investor recently told us during a call.

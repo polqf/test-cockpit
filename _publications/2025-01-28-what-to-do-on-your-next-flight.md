@@ -1,8 +1,9 @@
 ---
-title: 'What to Do on Your Next Flight: Turn Downtime into Connection Time'
+title: 'Make Every Flight Count: Connect & Engage in the Air'
 date: 2025-01-28 13:00:00 +02:00
 layout: post
 hidden: true
+description: 'Turn your flight into an opportunity! Discover how to make the most of your time in the air by connecting with fellow travelers.'
 ---
 
 **Air travel often means hours of downtime**, but it doesn’t have to be wasted. Why not use the time to **connect with others**? **Wingle**—a travel app that’s quietly changing the in-flight experience—offers a **simple and organic way to connect** with fellow passengers on your flight.

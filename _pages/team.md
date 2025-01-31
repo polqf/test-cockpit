@@ -2,7 +2,7 @@
 title: pilots
 permalink: "/team/"
 layout: profiles
-description: "Meet Wingle’s Pilots"
+description: "Get to know the team behind Wingle, the pilots steering the future of social travel. ✈️"
 nav_order: 2
 nav: true
 profiles:

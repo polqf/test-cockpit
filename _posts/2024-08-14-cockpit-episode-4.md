@@ -6,7 +6,7 @@ categories:
 tags:
 - cockpit-diaries
 layout: post
-description: "Cockpit Diaries - Gear up!"
+description: "Fasten your seatbelts! Wingle is gaining altitude in Episode 4 of the Cockpit Diaries. ✈️"
 ---
 
 Summers are a period to wind down, relax and disconnect… or not. This year, our summer looks very different, as Wingle speeds up, becomes more visible and grows more and more.

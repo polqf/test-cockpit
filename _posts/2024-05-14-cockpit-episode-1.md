@@ -6,7 +6,7 @@ categories:
 tags:
 - cockpit-diaries
 layout: post
-description: "Cockpit Diaries - Calibrating the radar"
+description: "The journey begins! See how Wingle is setting the course in Episode 1 of the Cockpit Diaries. 🛫"
 ---
 
 This is the first of our “cockpit diaries”; short posts where we want to keep you posted on the “behind the scenes” at Wingle and our learnings as we build a startup from the ground up. If you want a quick re-cap of what is Wingle and why we're launching it, read the first comment below 👇

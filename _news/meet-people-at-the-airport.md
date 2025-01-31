@@ -20,10 +20,10 @@ Happy summer, happy flying, happy Wingling!
 
 <div class="spotlight-group" style="padding-top: 20px; padding-bottom: 20px">
     <a class="spotlight" href="https://media.licdn.com/dms/image/v2/D4D22AQHi8ApC6-eQ9w/feedshare-shrink_1280/feedshare-shrink_1280/0/1723190680460?e=1740614400&v=beta&t=I_Jy86_Cwvb1udICP3AWQ5mdkQGwzzhRvnd3KzDGms4">
-        <img src="https://media.licdn.com/dms/image/v2/D4D22AQHi8ApC6-eQ9w/feedshare-shrink_1280/feedshare-shrink_1280/0/1723190680460?e=1740614400&v=beta&t=I_Jy86_Cwvb1udICP3AWQ5mdkQGwzzhRvnd3KzDGms4" width="400px"/>
+        <img src="https://media.licdn.com/dms/image/v2/D4D22AQHi8ApC6-eQ9w/feedshare-shrink_1280/feedshare-shrink_1280/0/1723190680460?e=1740614400&v=beta&t=I_Jy86_Cwvb1udICP3AWQ5mdkQGwzzhRvnd3KzDGms4" alt='Wingle at the airport feature shown on app' width="400px"/>
     </a>
     <a class="spotlight" href="https://media.licdn.com/dms/image/v2/D4D22AQEUsqAWTUOJ7g/feedshare-shrink_1280/feedshare-shrink_1280/0/1723190677130?e=1740614400&v=beta&t=WUyoLIw_36ULojQoDylTV8H2BmbAV-nAdi40Po7Z8Ng">
-        <img src="https://media.licdn.com/dms/image/v2/D4D22AQEUsqAWTUOJ7g/feedshare-shrink_1280/feedshare-shrink_1280/0/1723190677130?e=1740614400&v=beta&t=WUyoLIw_36ULojQoDylTV8H2BmbAV-nAdi40Po7Z8Ng" width="400px"/>
+        <img src="https://media.licdn.com/dms/image/v2/D4D22AQEUsqAWTUOJ7g/feedshare-shrink_1280/feedshare-shrink_1280/0/1723190677130?e=1740614400&v=beta&t=WUyoLIw_36ULojQoDylTV8H2BmbAV-nAdi40Po7Z8Ng" alt='Wingle at the airport feature shown on app' width="400px"/>
     </a>
 </div>
 

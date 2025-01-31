@@ -6,7 +6,7 @@ categories:
 tags:
 - cockpit-diaries
 layout: post
-description: "Cockpit Diaries - It’s in the air"
+description: "Big things are happening! See what’s ahead in Episode 9 of the Cockpit Diaries. 🌍"
 ---
 
 As the first (and arguably, the longest) month of the year comes to an end, we’re back in the cockpit with the latest updates and general thoughts! 🙌

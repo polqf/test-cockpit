@@ -1,5 +1,6 @@
 ---
 title: blank
+meta_title: "Inside Wingle – Cockpit Diaries, Blog & Tips"
 timezone: Europe/Madrid
 collections:
   news:
@@ -24,8 +25,8 @@ defaults:
   values:
     sitemap: false
 first_name: Wingle
-middle_name: "-"
-last_name: Blog
+middle_name:
+last_name: "Blog"
 contact_note: Follow us on our social networks
 description: "Wingle is the first app that allows people on the same plane to meet, connect and chat; all without the need of internet connection."
 footer_text: "\n"
@@ -51,7 +52,7 @@ search_enabled: false
 socials_in_search: false
 bib_search: false
 max_width: 930px
-serve_og_meta: false
+serve_og_meta: true
 serve_schema_org: false
 og_image: 
 google_analytics: G-HREL5J0RCR

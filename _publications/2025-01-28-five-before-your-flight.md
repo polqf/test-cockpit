@@ -1,8 +1,9 @@
 ---
-title: '5 Things You Have to Do Before Your Next Flight (You’ll Thank Us Later!)'
+title: '5 Essential Travel Hacks to Do Before Your Next Flight'
 date: 2025-01-28 13:00:00 +02:00
 layout: post
 hidden: true
+description: 'Prepare like a pro! Follow these five must-do travel tips before your flight to enjoy a smoother and stress-free journey.'
 ---
 
 **Flying doesn’t have to be stressful**, but let’s be honest: forgetting something important can quickly turn your dream trip into a nightmare. Don’t worry—we’ve got you covered! Here are **five important things to do before you head to the airport** to make your next flight as smooth (and fun!) as possible.

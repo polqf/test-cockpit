@@ -14,7 +14,7 @@ Let's be candid: the question from many people (and honestly, also from ourselve
 
 <div class="spotlight-group" style="padding-top: 20px; padding-bottom: 20px">
     <a class="spotlight" href="https://media.licdn.com/dms/image/v2/D4D22AQEoKo0klrorUQ/feedshare-shrink_800/feedshare-shrink_800/0/1719172282705?e=1740614400&v=beta&t=acYslLsBYbAs9YLB06GX6CHXWRnqi-fDi4Q8wWwTNMo">
-        <img src="https://media.licdn.com/dms/image/v2/D4D22AQEoKo0klrorUQ/feedshare-shrink_800/feedshare-shrink_800/0/1719172282705?e=1740614400&v=beta&t=acYslLsBYbAs9YLB06GX6CHXWRnqi-fDi4Q8wWwTNMo" width="600px"/>
+        <img src="https://media.licdn.com/dms/image/v2/D4D22AQEoKo0klrorUQ/feedshare-shrink_800/feedshare-shrink_800/0/1719172282705?e=1740614400&v=beta&t=acYslLsBYbAs9YLB06GX6CHXWRnqi-fDi4Q8wWwTNMo" width="600px" alt='Wingle at South Summit'/>
     </a>
 </div>
 

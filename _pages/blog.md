@@ -4,7 +4,7 @@ permalink: "/blog/"
 layout: default
 nav: true
 nav_order: 1
-description: "Wingle's Blog. Follow all the news around the first app that allows people on the same plane to meet, connect and chat; all without the need of internet connection."
+description: "Wingle Blog: Stay updated with Wingle, the first app that lets travelers on the same flight meet, connect, and chat—no internet needed. Explore news & insights!"
 pagination:
   enabled: true
   collection: posts

@@ -1,8 +1,9 @@
 ---
-title: 'The Art of Networking at 35,000 Feet: Turning Flights into Opportunities'
+title: 'Networking at 35,000 Feet: Turn Flights into Wins'
 date: 2025-01-28 13:00:00 +02:00
 layout: post
 hidden: true
+description: 'Turn your flight into an opportunity! Discover how to make the most of your time in the air by connecting with fellow travelers'
 ---
 
 Think networking only happens at conferences or on LinkedIn? Think again! Your next flight might just be your best opportunity to make meaningful professional connections. Here’s why:

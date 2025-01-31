@@ -6,7 +6,7 @@ categories:
 tags:
 - cockpit-diaries
 layout: post
-description: "Cockpit Diaries - Chicken or pasta?"
+description: "Decisions, decisions! Take a lighthearted look at travel choices in Episode 5 of the Cockpit Diaries. 🍽️"
 ---
 
 The launch has been very successful. It's been a huge win and something we’re immensely proud of. But if we want to turn Wingle into the success we envision, this is just the tiny start.
