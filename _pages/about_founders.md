@@ -41,7 +41,7 @@ We **dived and hiked in Oman**, crossed tea plantations, had one of the stranges
 	    <img src="/assets/img/founders/founders_carousel4.jpeg" width="33%" alt="Wingle @ Kerala, India" style="padding-top: 1%"/>
 	</a>
 	<a class="spotlight" href="/assets/img/founders/founders_carousel0.jpeg">
-	    <img src="/assets/img/founders/founders_carousel4.jpeg" width="33%" alt="Founders during first shooting for app launch" style="padding-top: 1%"/>
+	    <img src="/assets/img/founders/founders_carousel0.jpeg" width="33%" alt="Founders during first shooting for app launch" style="padding-top: 1%"/>
 	</a>
 </div>
 
